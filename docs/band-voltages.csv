@@ -1,0 +1,12 @@
+band,source_default_mv,measured_loaded_mv,confirmed_xpa_band,verification_date
+160m,230,,,
+80m,460,,,
+60m,690,,,
+40m,920,,,
+30m,1150,,,
+20m,1380,,,
+17m,1610,,,
+15m,1840,,,
+12m,2070,,,
+10m,2300,,,
+6m,2530,,,
